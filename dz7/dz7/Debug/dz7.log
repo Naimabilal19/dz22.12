@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\naima\source\repos\dz7\dz7\Source.cpp(38,22): warning C4129: ',': unrecognized character escape sequence
+C:\Users\naima\source\repos\dz7\dz7\Source.cpp(38,22): warning C4129: ':': unrecognized character escape sequence
+C:\Users\naima\source\repos\dz7\dz7\Source.cpp(42,22): warning C4129: ',': unrecognized character escape sequence
+C:\Users\naima\source\repos\dz7\dz7\Source.cpp(42,22): warning C4129: ':': unrecognized character escape sequence
+C:\Users\naima\source\repos\dz7\dz7\Source.cpp(54,23): warning C4129: ',': unrecognized character escape sequence
+C:\Users\naima\source\repos\dz7\dz7\Source.cpp(54,23): warning C4129: ':': unrecognized character escape sequence
+C:\Users\naima\source\repos\dz7\dz7\Source.cpp(58,22): warning C4129: ',': unrecognized character escape sequence
+C:\Users\naima\source\repos\dz7\dz7\Source.cpp(58,22): warning C4129: ':': unrecognized character escape sequence
+  dz7.vcxproj -> C:\Users\naima\source\repos\dz7\Debug\dz7.exe
